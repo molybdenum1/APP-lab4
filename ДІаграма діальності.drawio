@@ -1,0 +1,184 @@
+<mxfile host="Electron" modified="2023-05-02T09:19:42.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="NE2lEFaJTMZZ3U5UtJIw" version="21.2.1" type="device">
+  <diagram name="Страница 1" id="m2Ib9DyjgLPpNyNPaRx3">
+    <mxGraphModel dx="1734" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="l4yRV2OEKdLuLCiVwCIw-1" parent="1" target="l4yRV2OEKdLuLCiVwCIw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="90" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-5" value="Використання згенерований номер договору" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="80" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-6" value="Ввести номер договору вручну" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-3" target="l4yRV2OEKdLuLCiVwCIw-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="210" as="sourcePoint" />
+            <mxPoint x="130" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-3" target="l4yRV2OEKdLuLCiVwCIw-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="210" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-10" value="Який номер договору використовувати?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="130" width="245" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="210" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.312;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-5" target="l4yRV2OEKdLuLCiVwCIw-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="220" as="sourcePoint" />
+            <mxPoint x="210" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="43" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-6" target="l4yRV2OEKdLuLCiVwCIw-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+            <mxPoint x="410" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-12" target="l4yRV2OEKdLuLCiVwCIw-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="220" as="sourcePoint" />
+            <mxPoint x="305" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-16" value="Номер договору обран" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="l4yRV2OEKdLuLCiVwCIw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-17" value="Ввод дати заключення договору" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="290" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-17" target="l4yRV2OEKdLuLCiVwCIw-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="sourcePoint" />
+            <mxPoint x="305" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="385" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-19" target="l4yRV2OEKdLuLCiVwCIw-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="sourcePoint" />
+            <mxPoint x="200" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-19" target="l4yRV2OEKdLuLCiVwCIw-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="sourcePoint" />
+            <mxPoint x="420" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-22" value="Обрати поставника з списку" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="385" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-25" value="Створити Поставника" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="382.5" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-27" value="&lt;div style=&quot;&quot;&gt;Чи є поставник в системі?&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="175" y="430" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="500" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-29" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-25" target="l4yRV2OEKdLuLCiVwCIw-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="380" as="sourcePoint" />
+            <mxPoint x="350" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="108" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-22" target="l4yRV2OEKdLuLCiVwCIw-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="380" as="sourcePoint" />
+            <mxPoint x="350" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="515" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-28" target="l4yRV2OEKdLuLCiVwCIw-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="460" as="sourcePoint" />
+            <mxPoint x="305" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-32" value="Поставник обран" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="l4yRV2OEKdLuLCiVwCIw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-33" value="Ввести назву договору" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="570" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="640" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-33" target="l4yRV2OEKdLuLCiVwCIw-34">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="450" as="sourcePoint" />
+            <mxPoint x="350" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-36" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-34" target="l4yRV2OEKdLuLCiVwCIw-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="190" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-37" value="Ввести текст коментаря до договору" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="637.5" width="155" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-38" value="Зберегти створенний договір" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="727.5" width="155" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-39" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-37" target="l4yRV2OEKdLuLCiVwCIw-38">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="610" as="sourcePoint" />
+            <mxPoint x="490" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-38" target="l4yRV2OEKdLuLCiVwCIw-40">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="610" as="sourcePoint" />
+            <mxPoint x="490" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l4yRV2OEKdLuLCiVwCIw-34" target="l4yRV2OEKdLuLCiVwCIw-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="sourcePoint" />
+            <mxPoint x="460" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4yRV2OEKdLuLCiVwCIw-43" value="Чи потрібен комментар до договору?" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="l4yRV2OEKdLuLCiVwCIw-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
